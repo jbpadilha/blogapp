@@ -1,0 +1,12 @@
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/model/dto/PostDto.java
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/repository/CommentRepository.java
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/service/CommentService.java
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/service/PostService.java
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/BlogApplication.java
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/rest/CommentController.java
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/repository/PostRepository.java
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/model/dto/CommentDto.java
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/model/Comment.java
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/rest/PostController.java
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/model/dto/NewCommentDto.java
+/Users/jbpadilha/workspace/java_repositories/blogapp/src/main/java/com/padilha/model/Post.java

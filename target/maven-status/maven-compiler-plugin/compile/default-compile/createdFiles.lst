@@ -1,0 +1,12 @@
+com/padilha/BlogApplication.class
+com/padilha/repository/PostRepository.class
+com/padilha/model/Comment.class
+com/padilha/model/dto/CommentDto.class
+com/padilha/model/dto/PostDto.class
+com/padilha/service/PostService.class
+com/padilha/service/CommentService.class
+com/padilha/rest/PostController.class
+com/padilha/rest/CommentController.class
+com/padilha/model/Post.class
+com/padilha/repository/CommentRepository.class
+com/padilha/model/dto/NewCommentDto.class

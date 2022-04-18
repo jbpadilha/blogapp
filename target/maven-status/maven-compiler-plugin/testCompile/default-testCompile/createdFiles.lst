@@ -1,0 +1,5 @@
+com/padilha/rest/rest/PostControllerTest.class
+com/padilha/rest/rest/CommentControllerTest.class
+com/padilha/rest/service/PostServiceTest.class
+com/padilha/rest/rest/AbstractControllerTest.class
+com/padilha/rest/service/CommentServiceTest.class
